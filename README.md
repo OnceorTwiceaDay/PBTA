@@ -2,7 +2,6 @@
 
 video Presentation link :
 https://youtu.be/l4prsRCa624
-This is our Personal Budget tracker 
 
 A comprehensive, private, and user-friendly Android application designed to help users manage their finances by tracking income, expenses, and monthly spending goals.
 
