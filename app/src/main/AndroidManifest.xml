@@ -1,0 +1,19 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<application android:theme="@style/Theme.BudgetTracker">
+<activity android:name=".GoalActivity"/>
+<activity android:name=".ReportActivity"/>
+<activity android:name=".CategoryActivity"/>
+<activity android:name=".AddExpenseActivity"/>
+<activity android:name=".TransactionDetailActivity"/>
+<activity android:name=".MainActivity"/>
+<activity android:name=".AddIncomeActivity"/>
+<activity android:name=".RegisterActivity"/>
+<activity android:name=".LoginActivity" android:exported="true">
+<intent-filter>
+<action android:name="android.intent.action.MAIN"/>
+<category android:name="android.intent.category.LAUNCHER"/>
+</intent-filter>
+</activity>
+</application>
+</manifest>
